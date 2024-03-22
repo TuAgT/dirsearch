@@ -20,7 +20,7 @@
 
 import sys
 
-from pkg_resources import DistributionNotFound, VersionConflict
+#from pkg_resources import DistributionNotFound, VersionConflict
 
 from lib.core.data import options
 from lib.core.exceptions import FailedDependenciesInstallation
